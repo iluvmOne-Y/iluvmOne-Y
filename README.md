@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>📚 I'm currently in my freshman year.<br>💻 I'm interested in cybersecurity and hacking.<br>
+<br>📚 I'm currently in my freshman year.<br>💻 I want to make game <br>
 
 
 # 💻 Tech Stack:
@@ -11,9 +11,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=iluvmOne-Y&icon=2&color=3)](https://visitcount.itsvg.in)
