@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>📚 I'm currently in my freshman year.<br>💻 I want to make game <br>
+<br>📚 I'm currently in my freshman year.<br>💻 
 
 
 # 💻 Tech Stack:
