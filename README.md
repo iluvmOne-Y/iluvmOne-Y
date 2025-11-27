@@ -4,14 +4,32 @@
      <img draggable="false"style="witdh:119xp;height:20xp;" src="https://komarev.com/ghpvc/?username=iluvmOne-Y&style=for-the-badge&color=1C8C8C">
 # Veef tooi 
 khong co j de khoe
+carrer pentest
 <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHY1N2l2cjh1bDF3dHBxM3RlcnFkZWNjN2wwc2hoNWYzdnN4MDRwaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11KzOet1ElBDz2/giphy.gif">
-check out my blog https://iluvmone-y.github.io
+check out my blog for more info https://iluvmone-y.github.io
 
+```zsh
+clgp@localmachine: ~/my_readme (main⚡)$ cat readme.md
+```
+```csharp
+
+Username: CLGP
+WhoamI: A 3rd year student at HCM University of Science
+OS: Arch + Macos
+Shell: zsh 5.9
+Location: HCM city
+Languages: C,C++, Python, Kotlin
+Language: Su caf plo
+Music: https://www.youtube.com/watch?v=s5cK-geiJjA&list=RDs5cK-geiJjA&start_radio=1
+Role pursuit: Pentester / InfoSec / SOC analyst / Bug bounty hunter 
+Learning: everything i guess 
+```
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=iluvmOne-Y&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iluvmOne-Y&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iluvmOne-Y&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+GOOD BYPE 
 
-
+<img src= "vocaloidchibi.png">
 
