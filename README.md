@@ -1,7 +1,7 @@
 <a href="https://github.com/kawarimidoll/typograssy">
         <img alt="typograssy" src="https://typograssy.deno.dev/api?text=3636363636363636&l0=none&l1=82d9d0&l2=027353&l3=038c4c&l4=01402e&bg=none&frame=none&speed=100&comment=">
     </a>
-     <img draggable="false"style="witdh:119xp;height:20xp;" src="https://komarev.com/ghpvc/?username=JohnKun136NVCP&style=for-the-badge&color=1C8C8C">
+     <img draggable="false"style="witdh:119xp;height:20xp;" src="https://komarev.com/ghpvc/?username=iluvmOne-Y&style=for-the-badge&color=1C8C8C">
 # Veef tooi 
 khong co j de khoe
 <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHY1N2l2cjh1bDF3dHBxM3RlcnFkZWNjN2wwc2hoNWYzdnN4MDRwaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11KzOet1ElBDz2/giphy.gif">
