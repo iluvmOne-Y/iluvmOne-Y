@@ -6,7 +6,8 @@
 khong co j de khoe
 
 <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHY1N2l2cjh1bDF3dHBxM3RlcnFkZWNjN2wwc2hoNWYzdnN4MDRwaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11KzOet1ElBDz2/giphy.gif">
-check out my blog for more info https://iluvmone-y.github.io
+
+#check out my blog for more info https://iluvmone-y.github.io
 
 ```zsh
 clgp@localmachine: ~/my_readme (main⚡)$ cat readme.md
@@ -22,7 +23,8 @@ Languages: C,C++, Python, Kotlin
 Language: Su caf plo
 Music: https://www.youtube.com/watch?v=s5cK-geiJjA&list=RDs5cK-geiJjA&start_radio=1
 Role pursuit: Pentester / InfoSec / SOC analyst / Bug bounty hunter 
-Learning: everything i guess 
+Learning: everything i guess
+Personal blog: https://iluvmone-y.github.io
 ```
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=iluvmOne-Y&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
