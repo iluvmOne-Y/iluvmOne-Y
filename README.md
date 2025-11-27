@@ -1,5 +1,4 @@
 # 💫 About Me:
-<br>📚 I'm currently in my freshman year.<br>💻 
 
 
 # 📊 GitHub Stats:
