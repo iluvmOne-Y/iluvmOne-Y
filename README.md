@@ -17,8 +17,8 @@ clgp@localmachine: ~/my_readme (main⚡)$ cat readme.md
 
 Username: CLGP
 WhoamI: A 3rd year student at HCM University of Science
-OS: Arch + Macos
-Shell: zsh 5.9
+OS: Arch / Macos
+Shell: zsh 
 Location: HCM city
 Languages: C,C++, Python, Kotlin
 Language: Su caf plo
