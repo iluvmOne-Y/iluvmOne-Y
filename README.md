@@ -8,7 +8,7 @@ System Engineer Intern @ CMC Cloud
 <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHY1N2l2cjh1bDF3dHBxM3RlcnFkZWNjN2wwc2hoNWYzdnN4MDRwaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11KzOet1ElBDz2/giphy.gif">
 
 # check out my blog for more https://clgp-aint-cool.github.io
-# Portfo https://portfolio-clgp.vercel.app
+
 
 ```zsh
 clgp@localmachine: ~/my_readme (main⚡)$ cat readme.md
